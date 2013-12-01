@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>luka iris</title>
+<title>asma</title>
 	<link href="style.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="superfish/src/css/superfish.css" media="screen">
 	<script src="superfish/src/js/jquery.js"></script>
@@ -52,8 +52,8 @@
             	<li><a href="pelacakan.html">Pelacakan</a></li>
                 <li><a href="Komentar.php" class="last">About Us</a>
                 	<ul>
-                         <li><a href="#">Biodata</a></li>
-                         <li><a href="theteam.php">The Team</a></li>
+                        <li><a href="#">Biodata</a></li>
+                        <li><a href="theteam.php">The Team</a></li>
                     </ul>
                 </li>
 			</ul>
@@ -76,22 +76,21 @@
     <div id="sipratama_main">
     	<div class="cbox_fw">
         	<div class="cbox_large float_l">
-           	  <h2>Luka Iris? Apa yang harus dilakukan.?</h2>
-                <img src="images/lukagores.jpg" align="left" style="padding-right:20px; padding-top:23px;"/>
-                <p><br />Pernahkah anda mengalami luka karena teriris pisau? Atau luka karena tersayat benda tajam lainnya? Saya yakin tentu sebeagian besar orang pernah mengalaminya. Dan barangkali, tidak hanya satu atau dua kali terjadi dalam hidupnya. Lalu bagaimanakah anda merawat luka tersebut? Membiarkannya sembuh sendiri kah? Atau langsung membalutnya dengan plester luka? Benarkah anda yakin cara tersebut yang terbaik dalam merawat dan mengobati luka iris di kulit anda? Lantas bagaimanakah sebenarnya cara merawat dan mengobati luka iris yang benar?
-          Luka iris atau yang dikenal juga dengan istilah Vulnus Scissum adalah luka yang disebabkan oleh benda tajam seperti pisau, atau pecahan kaca. Luka iris dapat menyebabkan pembuluh darah di pinggiran luka terpotong luas. Darah yang keluar mungkin bisa cukup banyak. Tergantung luasnya luka. Bentuk luka yang ditimbulkan memanjang. Yakni panjangnya lebih besar daripada lebarnya. Biasanya daerah jaringan kulit di sekitar luka tidak mengalamai kerusakan.Prinsip dari penangan luka iris adalah menghentikan perdarahan dan meminimalkan resiko terjadinya infeksi. Diantara yang perlu diingat dalam menangani luka iris adalah :<br/>
+            	<h2>Pertolongan Pertama Pada Penderita Asma</h2>
+                <img src="images/asma.jpg" align="left" style="padding-right:20px; padding-top:5px;" />
+                <p>Asma merupakan penyakit yang sangat berbahaya jika dibiarkan terus menerus. Penyakit ini dapat membuat orang menjadi sangat panik, apalagi jika orang tersebut belum berpengalaman tentang penyakit ini. Sebelumnya sudah saya jelaskan secara detail tentang gejala, dan cara mengobati penyakit asma.Disini akan dibahas tentang pertolongan pertama pada penderita asma yang sedang kambuh dan kebetulan tidak membawa obat asma. Saya sendiri pernah mengalami hal ini dan menjadi sangat panik karena melihat asma seseorang yang sedang kambuh dan kesulitan untuk bernapas. Jika anda sudah tidak sabar untuk mengetahuinya, silahkan simak dengan baik. <br /><br />
+<h5><strong>Pertolongan pertama pada penderita penyakit asma:</strong></h5><br />
 
-1. Sehingga pertama kali yang harus dilakukan ketika mendapati luka iris adalah meminimalisasi terjadinya perdarahan. Jika luka cukup besar dan ada keterlibatan pembuluh darah tangani terlebih dahulu dengan menekan dan meninggikan bagian yang mengeluarkan darah agar tidak banyak yang keluar. Bila ada pembuluh nadi yang ikut terpotong, dan cukup besar, dilakukan pembalutan tourniquet.<br/>
+<ol>
+	<li>Carilah tempat yang nyaman dan sejuk kemudian bawa penderita ke tempat tersebut.</li>
+	<li>Posisikan si penderita dalam keadaan setengah duduk dan sambil bersandar di tembok. Pada bagian leher, berikan bantal agar terasa lebih nyaman. Jangan sekali-kali memposisikan penderita dalam keadaan berbaring/tidur.</li>
+	<li>Anda jangan merasa panik sehingga tidak memperburuk keadaan. Yang diperlukan hanyalah rileks dan santai.</li>
+	<li>Berilah minuman air hangat walaupun hanya sedikit, ini akan membantu.</li>
+	<li>Pijatlah secara perlahan bagian jempok kakinya, tepatnya 3-5 cm diatas ruas jempol, itu adalah syaraf paru-paru.</li>
+	<li>Jika keadaan penderita asma ini tidak kunjung sembuh, kuran lebih dalam waktu 15 menit. Segeralah bawa ke dokter terdekat untuk menjalani pengobatan yang cocok.</li>
+</ol>
 
-Prinsip dari penangan luka iris adalah menghentikan perdarahan dan meminimalkan resiko terjadinya infeksi<br/>
-
-2. Kemudian setelah perdarahan berhenti, bersihkan luka dengan air mengalir, untuk menghilangkan benda asing yang kemungkinan menempel pada luka. (jika luka iris cukup besar segera ke rumah sakit atau layanan kesehatan terdekat)<br/>
-
-3.  Setelah itu, olesi bagian luka dengan obat antiseptic<br/>
-
-4. Terakhir, balut luka dengan plester luka.<br/>
-
-5. konsultasikan dengan tenaga medis terdekat, jika luka tidak membaik <br/></p><br /><br />
+Beberapa hal diatas adalah pertolongan pertama penderita asma. Cara ini bisa dijadikan pengalaman ketika anda menemui penderta asma yang sedang kambuh dan mengalami kesulitan. Sekian saja tulisan ini saya tulis, semoga dapat menambah wawasan kita semuanya untuk lebih tanggap dalam bertindak yang benar. </p><br /><br />
 
 	<p><h4>Komentar Anda</h4></p>
                     <div id="contact_form">

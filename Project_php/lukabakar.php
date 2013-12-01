@@ -78,31 +78,34 @@
         	<div class="cbox_large float_l">
             	<h2>Luka Bakar? Lakukan Hal ini</h2>
                 <img src="images/lukabakar.jpg" align="left" style="padding-right:20px; padding-top:5px;" />
-                <p>Sebelum bicara lebih jauh tentang luka bakar, ada baiknya kita mengenal terlebih dahulu apa itu kulit, organ yang paling menderita saat luka bakar.
+                <p style="font-size:12px">Sebelum bicara lebih jauh tentang luka bakar, ada baiknya kita mengenal terlebih dahulu apa itu kulit, organ yang paling menderita saat luka bakar.<br />
 
-Kulit merupakan organ yang sangat penting dalam mengatur keseimbangan cairan dan suhu tubuh. Jika oleh karena suatu sebab kulit mengalami cidera maka fungsi fungsi tersebut akan mengalami gangguan. Disamping itu, kulit juga bertindak sebagai dinding pertahahan tubuh terhadap infeksi bakteri dan virus dari dunia luar.
+Kulit merupakan organ yang sangat penting dalam mengatur keseimbangan cairan dan suhu tubuh. Jika oleh karena suatu sebab kulit mengalami cidera maka fungsi fungsi tersebut akan mengalami gangguan. Disamping itu, kulit juga bertindak sebagai dinding pertahahan tubuh terhadap infeksi bakteri dan virus dari dunia luar.<br />
 
 Anatomi kulit sangat komplek dan terdiri dari berbagai struktur yang berlapis lapis. Tetapi secara umum dibagi menjadi 3 lapisan yaitu :
-
-    Epidermis, lapisan terluar dari kulit manusia.
-    Dermis, lapisan kulit yang terdiri dari kolagen dan serat elastis, tempat bersemayamnya sel sel saraf, pembuluh darah, kelenjar keringat dan folikel rambut.
-    Hipodermis atau jaringan subkutan, lapisan kulit tempat bersemayamnya pembuluh darah besar dan sel sel saraf. Lapisan ini memegang peranan penting dalam pengaturan suhu tubuh.
+	<ul>
+    	<li>Epidermis, lapisan terluar dari kulit manusia.</li>
+    	<li>Dermis, lapisan kulit yang terdiri dari kolagen dan serat elastis, tempat bersemayamnya sel sel saraf, pembuluh darah, kelenjar keringat dan folikel rambut.</li>
+    	<li>Hipodermis atau jaringan subkutan, lapisan kulit tempat bersemayamnya pembuluh darah besar dan sel sel saraf. Lapisan ini memegang peranan penting dalam pengaturan suhu tubuh.</li>
+    </ul>
 
 Jadi, kerusakan yang diakibatkan oleh luka bakar nantinya terggantung pada lokasi luka, dalamnya luka dan seberapa luas permukaan tubuh yang terimbas.
 
-Bagaimana sih klasifikasi luka bakar?
+Bagaimana sih klasifikasi luka bakar?<br />
 
 Luka bakar diklasifikasikan berdasarkan kedalaman lukanya.
 
-Luka bakar derajat satu. Luka bakar derajat satu hanya mengenai lapisan luar kulit yang menimbulkan peradangan lokal pada daerah tersebut. Sunburn sering dimasukan dalam klasifikasi luka bakar ini. Peradangan yang terjadi ditandai dengan rasa nyeri, kemerahan dan pembengkakan ringan. Kulit terasa sangat perih atau nyeri saat disentuh.
+	<ul>
+    	<li>Luka bakar derajat satu. Luka bakar derajat satu hanya mengenai lapisan luar kulit yang menimbulkan peradangan lokal pada daerah tersebut. Sunburn sering dimasukan dalam klasifikasi luka bakar ini. Peradangan yang terjadi ditandai dengan rasa nyeri, kemerahan dan pembengkakan ringan. Kulit terasa sangat perih atau nyeri saat disentuh.</li>
 
-Luka bakar derajat dua. Luka bakar mengenai kulit yang lebih dalam dan menimbulkan rasa sakit, kemerahan dan inflamasi yang lebih parah. Kulit juga tampak melepuh.
+		<li>Luka bakar derajat dua. Luka bakar mengenai kulit yang lebih dalam dan menimbulkan rasa sakit, kemerahan dan inflamasi yang lebih parah. Kulit juga tampak melepuh.</li>
 
-Luka bakar derajat tiga. Luka bakar yang sangat dalam dan mengenai ketiga lapisan kulit. Kulit pada daerah luka bakar juga akan mati. Karena saraf dan pembuluh darah juga rusak maka luka bakar derajat tiga akan tampak keputihan, keras dan relatif tidak sakit.
+		<li>Luka bakar derajat tiga. Luka bakar yang sangat dalam dan mengenai ketiga lapisan kulit. Kulit pada daerah luka bakar juga akan mati. Karena saraf dan pembuluh darah juga rusak maka luka bakar derajat tiga akan tampak keputihan, keras dan relatif tidak sakit.</li>
+	</ul>
 
-Uniknya, luka bakar mengalami suatu proses yang dinamis artinya bisa saja saat ini luka bakar derajat satu tapi besoknya sudah berkembang menjadi derajat dua. Hal yang sama juga dapat terjadi pada luka bakar derajat dua yang dapat berkembang menjadi derajat tiga.
+Uniknya, luka bakar mengalami suatu proses yang dinamis artinya bisa saja saat ini luka bakar derajat satu tapi besoknya sudah berkembang menjadi derajat dua. Hal yang sama juga dapat terjadi pada luka bakar derajat dua yang dapat berkembang menjadi derajat tiga.<br />
 
-Pada semua derajat luka bakar, proses peradangan atau inflamasi dan akumulasi cairan akan terjadi semenjak awal terjadinya luka bakar. Seperti yang telah disinggung sebelumnya bahwa salah satu fungsi kulit adalah sebagai dinding pelindung terhadap infeksi maka saat luka bakar, rusaknya kulit akan menyebabkan tubuh rentan kemasukan kuman.
+Pada semua derajat luka bakar, proses peradangan atau inflamasi dan akumulasi cairan akan terjadi semenjak awal terjadinya luka bakar. Seperti yang telah disinggung sebelumnya bahwa salah satu fungsi kulit adalah sebagai dinding pelindung terhadap infeksi maka saat luka bakar, rusaknya kulit akan menyebabkan tubuh rentan kemasukan kuman.<br />
 
 Hanya lapisan epidermis kulit yang mampu mengalami proses regenerasi yang baik sementara bila luka bakar mengenai lapisan kulit yg lebih dalam maka akan menyebabkan kecacatan permanen dan jaringan parut yg pasti menganggu fungsi kulit.</p><br /><br />
 

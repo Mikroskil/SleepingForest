@@ -78,13 +78,15 @@
         	<div class="cbox_large float_l">
             	<h2>Pertolongan Pertama Keracunan Makanan</h2>
                 <img src="images/keracunanmakanan.jpg" align="left" style="padding-right:20px; padding-top:5px;" />
-                <p>Salah satu bahaya kesehatan yang mungkin terjadi adalah keracunan makanan. Korban keracunan makanan harus segera mendapatkan pertolongan medis. Pada jalur pemudik, pemerintah biasanya menyediakan posko-posko kesehatan yang memberikan pelayanan 24 jam untuk menangani masalah kesehatan yang terjadi pada para pemudik.
+                <p>Salah satu bahaya kesehatan yang mungkin terjadi adalah keracunan makanan. Korban keracunan makanan harus segera mendapatkan pertolongan medis.Jadi Korban keracunan makanan harus secepatnya dibawa ke puskesmas ataupun rumah sakit terderkat <br /><br />
  
-Namun, sebelum penderita keracunan makanan dibawa ke fasilitas kesehatan terdekat, ada beberapa pertolongan pertama yang dapat kita lakukan:Bila penderita keracunan makanan banyak muntah dan diare, berikan cairan pengganti yang cukup seperti air putih, oralit atau campuran air putih-gula 2 sendok teh-garam ½ sendok teh atau air kelapa untuk menggantikan cairan dan elektrolit tubuh yang hilang.
-Berikan tablet karbon aktif untuk menyerap racun di dalam saluran pencernaan yang diminum dengan air putih.
-Bila tidak ada tablet karbon aktif, bisa mengkonsumsi susu untuk mengikat racun dalam saluran pencernaan dan merangsang penderita untuk muntah sehingga racun keluar dan tidak beredar dalam tubuh. Namun , jika penderita mengalami diare, sebaiknya tidak diberikan susu.
-Bila penderita keracunan makanan hendak muntah, usahakan agar penderita muntah dalam keadaan kepala menunduk agar cairan muntah tidak masuk ke dalam saluran pernapasan.
-Pada anak-anak, sebaiknya segera dibawa ke fasilitas kesehatan yang terdekat untuk mendapatkan pertolongan segera.
+Namun, sebelum penderita keracunan makanan dibawa ke fasilitas kesehatan terdekat, ada beberapa pertolongan pertama yang dapat kita lakukan:
+<ol>
+	<li>Bila penderita keracunan makanan banyak muntah dan diare, berikan cairan pengganti yang cukup seperti air putih, oralit atau campuran air putih-gula 2 sendok teh-garam ½ sendok teh atau air kelapa untuk menggantikan cairan dan elektrolit tubuh yang hilang.</li>
+	<li>Berikan tablet karbon aktif untuk menyerap racun di dalam saluran pencernaan yang diminum dengan air putih.</li>
+	<li>Bila tidak ada tablet karbon aktif, bisa mengkonsumsi susu untuk mengikat racun dalam saluran pencernaan dan merangsang penderita untuk muntah sehingga racun keluar dan tidak beredar dalam tubuh. Namun , jika penderita mengalami diare, sebaiknya tidak diberikan susu.</li>
+	<li>Bila penderita keracunan makanan hendak muntah, usahakan agar penderita muntah dalam keadaan kepala menunduk agar cairan muntah tidak masuk ke dalam saluran pernapasan.</li>
+	<li>Pada anak-anak, sebaiknya segera dibawa ke 			fasilitas kesehatan yang terdekat untuk mendapatkan pertolongan segera.</li></ol><br />
  
 Untuk mencegah keracunan makanan, pastikan Anda selalu mencuci tangan sebelum makan, memperhatikan kebersihan alat makan dan memperhatikan kebersihan dan kesegaran makanan yang Anda makan.</p><br /><br />
 

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>sakit jantung</title>
+<title>luka iris</title>
 	<link href="style.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="superfish/src/css/superfish.css" media="screen">
 	<script src="superfish/src/js/jquery.js"></script>
@@ -52,8 +52,8 @@
             	<li><a href="pelacakan.html">Pelacakan</a></li>
                 <li><a href="Komentar.php" class="last">About Us</a>
                 	<ul>
-                        <li><a href="#">Biodata</a></li>
-                        <li><a href="theteam.php">The Team</a></li>
+                         <li><a href="#">Biodata</a></li>
+                         <li><a href="theteam.php">The Team</a></li>
                     </ul>
                 </li>
 			</ul>
@@ -76,24 +76,22 @@
     <div id="sipratama_main">
     	<div class="cbox_fw">
         	<div class="cbox_large float_l">
-            	<h2>Pertolongan Pertama Pada Serangan Jantung</h2>
-                <img src="images/seranganjantung.jpg" align="left" style="padding-right:20px; padding-top:5px;" />
-                <p>Serangan jantung adalah kondisi yang membutuhkan penanganan yang cepat dan termasuk salah satu kegawatdaruratan medis. Semakin cepat tindakan atau penanganan yang diberikan maka akan semakin besar kemungkinan penderita dapat diselamatkan.
- 
-Sebelum mengambil tindakan-tindakan pertolongan, yang paling penting adalah kenali gejala dan pastikan apakah keluhan yang dialami merupakan gejala serangan jantung. Gejala serangan jantung dapat bervariasi, dari derajat yang paling ringan hingga berat. Secara umum, gejala serangan jantung adalah sebagai berikut:Nyeri dada yang bertahan selama beberapa menit (lebih dari 5 menit) atau hilang timbul, keluhan nyeri seperti ditekan atau diremas atau ditusuk. Lokasi nyeri biasanya di kiri atau di tengah dada. Nyeri dada ini sifatnya spesifik, artinya nyeri dengan karakteristik ini hampir selalu timbul pada serangan jantung. Apabila hanya ada satu gejala yang dapat Anda temukan, pastikan keluhan nyeri tersebut ada.
-Rasa nyeri dapat menjalar atau menjadi rasa tidak nyaman atau kesemutan di bahu, lengan atas, punggung, leher atau bahkan rahang bawah.
-Sulit bernapas atau napas menjadi pendek.
-Timbul keringat dingin.
-Mual, lemah tiba-tiba.
-Pusing atau kepala terasa ringan.
-Denyut jantung  menjadi tidak teratur.
- 
-Apabila gejala-gejala tersebut Anda temukan pada penderita, maka segeralah lakukan hal-hal berikut:
-Dudukkan penderita atau letakkan di posisi yang nyaman bagi penderita. Pastikan penderita dapat bersandar sehingga tidak perlu menyangga beban tubuhnya. Akan tetapi, jangan ambil posisi berbaring karena apabila penderita kehilangan kesadaran, jalan napasnya dapat terganggu.
-Panggil bantuan. Hubungi nomor telepon darurat yaitu 118 atau 119 untuk respons cepat ambulans.
-Tenangkan pasien, beri kata-kata menyejukkan sambil melonggarkan baju penderita sehingga dapat membantu dirinya bernapas lebih lega.
-Tanyakan riwayat kesehatan penderita. Adakah obat jantung yang diresepkan dokter dan biasanya ia minum. Apabila penderita membawa obat gawat daruratnya, bantulah dirinya untuk mengkonsumsi obat tersebut. Pada umumnya obat yang diresepkan dapat berupa aspirin kunyah atau nitrogliserin di bawah lidah. Jangan sekali-sekali memberikan obat pada penderita jantung tanpa mengetahui riwayat penyakitnya atau tanpa resep dari dokter karena hal ini justru dapat memperburuk kondisi jantungnya.
-Senantiasa cek kesadaran penderita. Sambil menunggu bantuan datang, pastikan penderita masih dalam keadaan sadar dengan mengajak berbicara. Apabila pasien tiba-tiba jatuh dalam keadaan tidak sadar maka Anda sebaiknya siap melakukan resusitasi jantung paru. Akan tetapi, sebelum melakukan resusitasi seharusnya Anda sudah pernah mengikuti pelatihan pertolongan pertama pada keadaan darurat. Mengingat hal ini, Anda dapat juga menelpon nomor darurat 118 sekali lagi untuk kemudian mendapatkan pengarahan mengenai langkah-langkah resusitasi yang dapat dilakukan.</p><br /><br />
+           	  <h2>Luka Iris? Apa yang harus dilakukan.?</h2>
+                <img src="images/lukagores.jpg" align="left" style="padding-right:20px; padding-top:23px;"/>
+                <p><br />Pernahkah anda mengalami luka karena teriris pisau?Atau luka karena tersayat benda tajam lainnya? Saya yakin tentu sebeagian besar orang pernah mengalaminya. Dan barangkali, tidak hanya satu atau dua kali terjadi dalam hidupnya. Lalu bagaimanakah anda merawat luka tersebut? Membiarkannya sembuh sendiri kah? Atau langsung membalutnya dengan plester luka? Benarkah anda yakin cara tersebut yang terbaik dalam merawat dan mengobati luka iris di kulit anda? Lantas bagaimanakah sebenarnya cara merawat dan mengobati luka iris yang benar?
+          Luka iris atau yang dikenal juga dengan istilah Vulnus Scissum adalah luka yang disebabkan oleh benda tajam seperti pisau, atau pecahan kaca. Luka iris dapat menyebabkan pembuluh darah di pinggiran luka terpotong luas. Darah yang keluar mungkin bisa cukup banyak. Tergantung luasnya luka. Bentuk luka yang ditimbulkan memanjang. Yakni panjangnya lebih besar daripada lebarnya. Biasanya daerah jaringan kulit di sekitar luka tidak mengalamai kerusakan.Prinsip dari penangan luka iris adalah menghentikan perdarahan dan meminimalkan resiko terjadinya infeksi. Diantara yang perlu diingat dalam menangani luka iris adalah :<br/>
+
+<ol>
+	<li>Sehingga pertama kali yang harus dilakukan ketika mendapati luka iris adalah meminimalisasi terjadinya perdarahan. Jika luka cukup besar dan ada keterlibatan pembuluh darah tangani terlebih dahulu dengan menekan dan meninggikan bagian yang mengeluarkan darah agar tidak banyak yang keluar. Bila ada pembuluh nadi yang ikut terpotong, dan cukup besar, dilakukan pembalutan tourniquet.
+Prinsip dari penangan luka iris adalah menghentikan perdarahan dan meminimalkan resiko terjadinya infeksi</li>
+
+	<li>Kemudian setelah perdarahan berhenti, bersihkan luka dengan air mengalir, untuk menghilangkan benda asing yang kemungkinan menempel pada luka. (jika luka iris cukup besar segera ke rumah sakit atau layanan kesehatan terdekat)</li>
+
+	<li>Setelah itu, olesi bagian luka dengan obat antiseptic.</li>
+
+	<li>Terakhir, balut luka dengan plester luka.</li>
+
+	<li>konsultasikan dengan tenaga medis terdekat, jika luka tidak membaik.</li></ol> <br/></p><br /><br />
 
 	<p><h4>Komentar Anda</h4></p>
                     <div id="contact_form">

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>asma</title>
+<title>sakit jantung</title>
 	<link href="style.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="superfish/src/css/superfish.css" media="screen">
 	<script src="superfish/src/js/jquery.js"></script>
@@ -76,19 +76,27 @@
     <div id="sipratama_main">
     	<div class="cbox_fw">
         	<div class="cbox_large float_l">
-            	<h2>Pertolongan Pertama Pada Penderita Asma</h2>
-                <img src="images/asma.jpg" align="left" style="padding-right:20px; padding-top:5px;" />
-                <p>Pertolongan Pertama pada Penderita Asma (Sesak Napas). Asma merupakan penyakit yang sangat berbahaya jika dibiarkan terus menerus. Penyakit ini dapat membuat orang menjadi sangat panik, apalagi jika orang tersebut belum berpengalaman tentang penyakit ini. Sebelumnya sudah saya jelaskan secara detail tentang gejala, dan cara mengobati penyakit asma.Disini akan dibahas tentang pertolongan pertama pada penderita asma yang sedang kambuh dan kebetulan tidak membawa obat asma. Saya sendiri pernah mengalami hal ini dan menjadi sangat panik karena melihat asma seseorang yang sedang kambuh dan kesulitan untuk bernapas. Jika anda sudah tidak sabar untuk mengetahuinya, silahkan simak dengan baik. 
-Pertolongan pertama pada penderita penyakit asma.
-
-Carilah tempat yang nyaman dan sejuk kemudian bawa penderita ke tempat tersebut.
-Posisikan si penderita dalam keadaan setengah duduk dan sambil bersandar di tembok. Pada bagian leher, berikan bantal agar terasa lebih nyaman. Jangan sekali-kali memposisikan penderita dalam keadaan berbaring/tidur.
-Anda jangan merasa panik sehingga tidak memperburuk keadaan. Yang diperlukan hanyalah rileks dan santai.
-Berilah minuman air hangat walaupun hanya sedikit, ini akan membantu.
-Pijatlah secara perlahan bagian jempok kakinya, tepatnya 3-5 cm diatas ruas jempol, itu adalah syaraf paru-paru.
-Jika keadaan penderita asma ini tidak kunjung sembuh, kuran lebih dalam waktu 15 menit. Segeralah bawa ke dokter terdekat untuk menjalani pengobatan yang cocok.
-
-Beberapa hal diatas adalah pertolongan pertama penderita asma. Cara ini bisa dijadikan pengalaman ketika anda menemui penderta asma yang sedang kambuh dan mengalami kesulitan. Sekian saja tulisan ini saya tulis, semoga dapat menambah wawasan kita semuanya untuk lebih tanggap dalam bertindak yang benar. </p><br /><br />
+            	<h2>Pertolongan Pertama Pada Serangan Jantung</h2>
+                <img src="images/seranganjantung.jpg" align="left" style="padding-right:20px; padding-top:5px;" />
+                <p>Serangan jantung adalah kondisi yang membutuhkan penanganan yang cepat dan termasuk salah satu kegawatdaruratan medis. Semakin cepat tindakan atau penanganan yang diberikan maka akan semakin besar kemungkinan penderita dapat diselamatkan.<br />
+ 
+Sebelum mengambil tindakan-tindakan pertolongan, yang paling penting adalah kenali gejala dan pastikan apakah keluhan yang dialami merupakan gejala serangan jantung. Gejala serangan jantung dapat bervariasi, dari derajat yang paling ringan hingga berat. Secara umum, gejala serangan jantung adalah sebagai berikut:
+	<ul type="circle">
+    	<li>Nyeri dada yang bertahan selama beberapa menit (lebih dari 5 menit) atau hilang timbul, keluhan nyeri seperti ditekan atau diremas atau ditusuk. Lokasi nyeri biasanya di kiri atau di tengah dada. Nyeri dada ini sifatnya spesifik, artinya nyeri dengan karakteristik ini hampir selalu timbul pada serangan jantung. Apabila hanya ada satu gejala yang dapat Anda temukan, pastikan keluhan nyeri tersebut ada.</li>
+		<li>Rasa nyeri dapat menjalar atau menjadi rasa tidak nyaman atau kesemutan di bahu, lengan atas, punggung, leher atau bahkan rahang bawah.</li>
+		<li>Sulit bernapas atau napas menjadi pendek.</li>
+		<li>Timbul keringat dingin.</li>
+		<li>Mual, lemah tiba-tiba.</li>
+		<li>Pusing atau kepala terasa ringan.</li>
+		<li>Denyut jantung  menjadi tidak teratur.</li></ul>
+ 
+Apabila gejala-gejala tersebut Anda temukan pada penderita, maka segeralah lakukan hal-hal berikut:
+	<ol>
+		<li>Dudukkan penderita atau letakkan di posisi yang nyaman bagi penderita. Pastikan penderita dapat bersandar sehingga tidak perlu menyangga beban tubuhnya. Akan tetapi, jangan ambil posisi berbaring karena apabila penderita kehilangan kesadaran, jalan napasnya dapat terganggu.</li>
+		<li>Panggil bantuan. Hubungi nomor telepon darurat yaitu 118 atau 119 untuk respons cepat ambulans.</li>
+		<li>Tenangkan pasien, beri kata-kata menyejukkan sambil melonggarkan baju penderita sehingga dapat membantu dirinya bernapas lebih lega.</li>
+		<li>Tanyakan riwayat kesehatan penderita. Adakah obat jantung yang diresepkan dokter dan biasanya ia minum. Apabila penderita membawa obat gawat daruratnya, bantulah dirinya untuk mengkonsumsi obat tersebut. Pada umumnya obat yang diresepkan dapat berupa aspirin kunyah atau nitrogliserin di bawah lidah. Jangan sekali-sekali memberikan obat pada penderita jantung tanpa mengetahui riwayat penyakitnya atau tanpa resep dari dokter karena hal ini justru dapat memperburuk kondisi jantungnya.</li>
+		<li>Senantiasa cek kesadaran penderita. Sambil menunggu bantuan datang, pastikan penderita masih dalam keadaan sadar dengan mengajak berbicara. Apabila pasien tiba-tiba jatuh dalam keadaan tidak sadar maka Anda sebaiknya siap melakukan resusitasi jantung paru. Akan tetapi, sebelum melakukan resusitasi seharusnya Anda sudah pernah mengikuti pelatihan pertolongan pertama pada keadaan darurat. Mengingat hal ini, Anda dapat juga menelpon nomor darurat 118 sekali lagi untuk kemudian mendapatkan pengarahan mengenai langkah-langkah resusitasi yang dapat dilakukan.</li></ol></p><br /><br />
 
 	<p><h4>Komentar Anda</h4></p>
                     <div id="contact_form">
