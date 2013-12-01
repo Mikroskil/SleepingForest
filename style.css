@@ -32,8 +32,8 @@ body {
 
 p { margin: 0 0 10px 0; padding: 0; }
 
-h1, h2, h3, h4, h5, h6 { color: #989898; font-weight: normal; }
-h1 { font-size: 48px; margin: 0 0 30px; padding: 5px 0 }
+h1, h2, h3, h4, h5, h6 { color: #06F; font-weight: normal; }
+h1 { font-size: 48px; margin: 0 0 30px; padding: 5px 0; }
 h2 { font-size: 24px; margin: 0 0 25px; padding: 5px 0; }
 h3 { font-size: 24px; margin: 0 0 20px; padding: 0; }
 h4 { font-size: 20px; margin: 0 0 15px; padding: 0; }
@@ -152,7 +152,7 @@ h6 { font-size: 12px; margin: 0 0 5px; padding: 0; }
 .fp_box span.b2 { background: url(images/twitt.png) no-repeat }
 .fp_box span.b3 { background: url(images/google+.png) no-repeat }
 
-.tw_bullet { color: #2081da; padding-left: 20px; font-weight: 700; background: url(images/templatemo_title.png) center left no-repeat }
+.tw_bullet { color: #06F; padding-left: 20px; font-weight: 700; background: url(images/templatemo_title.png) center left no-repeat }
 
 .rp_box { clear: both; margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #CCC }
 .rp_box img { float: left; margin-right: 15px; border: 1px solid #fff }

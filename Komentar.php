@@ -46,14 +46,16 @@
 								<li>
                         			<a href="followed.html">Tips dan Saran</a>
                         		</li>
-                        		<li>
-                        			<a href="#">Contact Us</a>
-                        		</li>
 							</ul>
 						</li>
 						<li><a href="download.html">Unduh</a></li>
             			<li><a href="pelacakan.html">Pelacakan</a></li>
-                		<li><a href="Komentar.php" class="last">Komentar</a></li>
+                		<li><a href="Komentar.php" class="last">About Us</a>
+                        	<ul>
+                            	<li><a href="#">Biodata</a></li>
+                                <li><a href="theteam.php">The Team</a></li>
+                            </ul>
+                        </li>
 					</ul>
             	</div> <!-- tutup menu -->
         	</div><!-- tutup header -->
@@ -73,8 +75,7 @@
     	<div id="sipratama_main">
         	<div class="cbox_fw">
             	<div class="cbox_large float_l">
-            		<h2>KOMENTAR ANDA</h2>
-                	<p>Jika anda mempunyai keluhan ataupun kritik dan saran ataupun ingin menambahkan dan mengoreksi postingan kami silahkan berkomentar di tempat yang kami sediakan ini</p>
+            		<h2>WE ARE HERE TO HELP</h2>
                     <div id="contact_form">
                     	<form method="post" name="contact" action="#">
                         	<label for="user">Nama:</label>
@@ -96,17 +97,17 @@
             	<h2>Recent Post</h2>
                 	<div class="rp_box">
                     	<img src="images/baby.png" /><p>Mana yang lebih berat? Diare pada anak-anak atau diare pada bayi?</p>
-                        <a href="#" class="more float_r"><span>&gt;&gt;</span> Read More</a>
+                        <a href="diareanak.php" class="more float_r"><span>&gt;&gt;</span> Read More</a>
                         <div class="cleaner"></div>
                     </div>
                     <div class="rp_box">
                     	<img src="images/lukagores.png" /><p>Pertolongan Pertama Luka Gores</p>
-                        <a href="#" class="more float_r"><span>&gt;&gt;</span> Read More</a>
+                        <a href="luka_iris.php" class="more float_r"><span>&gt;&gt;</span> Read More</a>
                     	<div class="cleaner"></div>
                     </div>
                     <div class="rp_box">
                     	<img src="images/Obesity.png" /><p>Lebih Jauh tentang Obesitas</p>
-                        <a href="#" class="more float_r"><span>&gt;&gt;</span> Read More</a>
+                        <a href="obesitas.php" class="more float_r"><span>&gt;&gt;</span> Read More</a>
                         <div class="cleaner"></div>
                     </div>
             	</div>
