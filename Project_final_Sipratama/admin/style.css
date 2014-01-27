@@ -1,0 +1,58 @@
+html, body{
+	padding: 0;
+	margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin: 5px 0px;
+}
+
+.container{
+	padding: 0 10px;
+}
+
+.header{
+	background:#C30;
+}
+
+
+.header h4{
+	margin: 0;
+	padding: 10px 10px;
+	}
+	
+
+
+.konten{
+	background: #CCC;
+	padding-top: 20px;
+}
+
+.kiri, .kanan{
+	float: left;
+}
+
+.kiri{
+	width: 150px;
+	margin-right: 20px;
+}
+
+.kanan{
+	width:85%;
+}
+
+.kiri ul{
+	list-style: none;
+	margin: 0;
+	padding-left: 10px
+}
+
+.kiri ul li a{
+	font-size: 16px;
+	text-decoration: none;
+	
+}
+
+.kiri ul li a:hover{
+	color: #a2f4a4;
+}
