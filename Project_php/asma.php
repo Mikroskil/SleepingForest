@@ -78,17 +78,15 @@
         	<div class="cbox_large float_l">
             	<h2>Pertolongan Pertama Pada Penderita Asma</h2>
                 <img src="images/asma.jpg" align="left" style="padding-right:20px; padding-top:5px;" />
-                <p>Asma merupakan penyakit yang sangat berbahaya jika dibiarkan terus menerus. Penyakit ini dapat membuat orang menjadi sangat panik, apalagi jika orang tersebut belum berpengalaman tentang penyakit ini. Sebelumnya sudah saya jelaskan secara detail tentang gejala, dan cara mengobati penyakit asma.Disini akan dibahas tentang pertolongan pertama pada penderita asma yang sedang kambuh dan kebetulan tidak membawa obat asma. Saya sendiri pernah mengalami hal ini dan menjadi sangat panik karena melihat asma seseorang yang sedang kambuh dan kesulitan untuk bernapas. Jika anda sudah tidak sabar untuk mengetahuinya, silahkan simak dengan baik. <br /><br />
-<h5><strong>Pertolongan pertama pada penderita penyakit asma:</strong></h5><br />
+                <p>Pertolongan Pertama pada Penderita Asma (Sesak Napas). Asma merupakan penyakit yang sangat berbahaya jika dibiarkan terus menerus. Penyakit ini dapat membuat orang menjadi sangat panik, apalagi jika orang tersebut belum berpengalaman tentang penyakit ini. Sebelumnya sudah saya jelaskan secara detail tentang gejala, dan cara mengobati penyakit asma.Disini akan dibahas tentang pertolongan pertama pada penderita asma yang sedang kambuh dan kebetulan tidak membawa obat asma. Saya sendiri pernah mengalami hal ini dan menjadi sangat panik karena melihat asma seseorang yang sedang kambuh dan kesulitan untuk bernapas. Jika anda sudah tidak sabar untuk mengetahuinya, silahkan simak dengan baik. 
+Pertolongan pertama pada penderita penyakit asma.
 
-<ol>
-	<li>Carilah tempat yang nyaman dan sejuk kemudian bawa penderita ke tempat tersebut.</li>
-	<li>Posisikan si penderita dalam keadaan setengah duduk dan sambil bersandar di tembok. Pada bagian leher, berikan bantal agar terasa lebih nyaman. Jangan sekali-kali memposisikan penderita dalam keadaan berbaring/tidur.</li>
-	<li>Anda jangan merasa panik sehingga tidak memperburuk keadaan. Yang diperlukan hanyalah rileks dan santai.</li>
-	<li>Berilah minuman air hangat walaupun hanya sedikit, ini akan membantu.</li>
-	<li>Pijatlah secara perlahan bagian jempok kakinya, tepatnya 3-5 cm diatas ruas jempol, itu adalah syaraf paru-paru.</li>
-	<li>Jika keadaan penderita asma ini tidak kunjung sembuh, kuran lebih dalam waktu 15 menit. Segeralah bawa ke dokter terdekat untuk menjalani pengobatan yang cocok.</li>
-</ol>
+Carilah tempat yang nyaman dan sejuk kemudian bawa penderita ke tempat tersebut.
+Posisikan si penderita dalam keadaan setengah duduk dan sambil bersandar di tembok. Pada bagian leher, berikan bantal agar terasa lebih nyaman. Jangan sekali-kali memposisikan penderita dalam keadaan berbaring/tidur.
+Anda jangan merasa panik sehingga tidak memperburuk keadaan. Yang diperlukan hanyalah rileks dan santai.
+Berilah minuman air hangat walaupun hanya sedikit, ini akan membantu.
+Pijatlah secara perlahan bagian jempok kakinya, tepatnya 3-5 cm diatas ruas jempol, itu adalah syaraf paru-paru.
+Jika keadaan penderita asma ini tidak kunjung sembuh, kuran lebih dalam waktu 15 menit. Segeralah bawa ke dokter terdekat untuk menjalani pengobatan yang cocok.
 
 Beberapa hal diatas adalah pertolongan pertama penderita asma. Cara ini bisa dijadikan pengalaman ketika anda menemui penderta asma yang sedang kambuh dan mengalami kesulitan. Sekian saja tulisan ini saya tulis, semoga dapat menambah wawasan kita semuanya untuk lebih tanggap dalam bertindak yang benar. </p><br /><br />
 

@@ -78,25 +78,22 @@
         	<div class="cbox_large float_l">
             	<h2>Pertolongan Pertama Pada Serangan Jantung</h2>
                 <img src="images/seranganjantung.jpg" align="left" style="padding-right:20px; padding-top:5px;" />
-                <p>Serangan jantung adalah kondisi yang membutuhkan penanganan yang cepat dan termasuk salah satu kegawatdaruratan medis. Semakin cepat tindakan atau penanganan yang diberikan maka akan semakin besar kemungkinan penderita dapat diselamatkan.<br />
+                <p>Serangan jantung adalah kondisi yang membutuhkan penanganan yang cepat dan termasuk salah satu kegawatdaruratan medis. Semakin cepat tindakan atau penanganan yang diberikan maka akan semakin besar kemungkinan penderita dapat diselamatkan.
  
-Sebelum mengambil tindakan-tindakan pertolongan, yang paling penting adalah kenali gejala dan pastikan apakah keluhan yang dialami merupakan gejala serangan jantung. Gejala serangan jantung dapat bervariasi, dari derajat yang paling ringan hingga berat. Secara umum, gejala serangan jantung adalah sebagai berikut:
-	<ul type="circle">
-    	<li>Nyeri dada yang bertahan selama beberapa menit (lebih dari 5 menit) atau hilang timbul, keluhan nyeri seperti ditekan atau diremas atau ditusuk. Lokasi nyeri biasanya di kiri atau di tengah dada. Nyeri dada ini sifatnya spesifik, artinya nyeri dengan karakteristik ini hampir selalu timbul pada serangan jantung. Apabila hanya ada satu gejala yang dapat Anda temukan, pastikan keluhan nyeri tersebut ada.</li>
-		<li>Rasa nyeri dapat menjalar atau menjadi rasa tidak nyaman atau kesemutan di bahu, lengan atas, punggung, leher atau bahkan rahang bawah.</li>
-		<li>Sulit bernapas atau napas menjadi pendek.</li>
-		<li>Timbul keringat dingin.</li>
-		<li>Mual, lemah tiba-tiba.</li>
-		<li>Pusing atau kepala terasa ringan.</li>
-		<li>Denyut jantung  menjadi tidak teratur.</li></ul>
+Sebelum mengambil tindakan-tindakan pertolongan, yang paling penting adalah kenali gejala dan pastikan apakah keluhan yang dialami merupakan gejala serangan jantung. Gejala serangan jantung dapat bervariasi, dari derajat yang paling ringan hingga berat. Secara umum, gejala serangan jantung adalah sebagai berikut:Nyeri dada yang bertahan selama beberapa menit (lebih dari 5 menit) atau hilang timbul, keluhan nyeri seperti ditekan atau diremas atau ditusuk. Lokasi nyeri biasanya di kiri atau di tengah dada. Nyeri dada ini sifatnya spesifik, artinya nyeri dengan karakteristik ini hampir selalu timbul pada serangan jantung. Apabila hanya ada satu gejala yang dapat Anda temukan, pastikan keluhan nyeri tersebut ada.
+Rasa nyeri dapat menjalar atau menjadi rasa tidak nyaman atau kesemutan di bahu, lengan atas, punggung, leher atau bahkan rahang bawah.
+Sulit bernapas atau napas menjadi pendek.
+Timbul keringat dingin.
+Mual, lemah tiba-tiba.
+Pusing atau kepala terasa ringan.
+Denyut jantung  menjadi tidak teratur.
  
 Apabila gejala-gejala tersebut Anda temukan pada penderita, maka segeralah lakukan hal-hal berikut:
-	<ol>
-		<li>Dudukkan penderita atau letakkan di posisi yang nyaman bagi penderita. Pastikan penderita dapat bersandar sehingga tidak perlu menyangga beban tubuhnya. Akan tetapi, jangan ambil posisi berbaring karena apabila penderita kehilangan kesadaran, jalan napasnya dapat terganggu.</li>
-		<li>Panggil bantuan. Hubungi nomor telepon darurat yaitu 118 atau 119 untuk respons cepat ambulans.</li>
-		<li>Tenangkan pasien, beri kata-kata menyejukkan sambil melonggarkan baju penderita sehingga dapat membantu dirinya bernapas lebih lega.</li>
-		<li>Tanyakan riwayat kesehatan penderita. Adakah obat jantung yang diresepkan dokter dan biasanya ia minum. Apabila penderita membawa obat gawat daruratnya, bantulah dirinya untuk mengkonsumsi obat tersebut. Pada umumnya obat yang diresepkan dapat berupa aspirin kunyah atau nitrogliserin di bawah lidah. Jangan sekali-sekali memberikan obat pada penderita jantung tanpa mengetahui riwayat penyakitnya atau tanpa resep dari dokter karena hal ini justru dapat memperburuk kondisi jantungnya.</li>
-		<li>Senantiasa cek kesadaran penderita. Sambil menunggu bantuan datang, pastikan penderita masih dalam keadaan sadar dengan mengajak berbicara. Apabila pasien tiba-tiba jatuh dalam keadaan tidak sadar maka Anda sebaiknya siap melakukan resusitasi jantung paru. Akan tetapi, sebelum melakukan resusitasi seharusnya Anda sudah pernah mengikuti pelatihan pertolongan pertama pada keadaan darurat. Mengingat hal ini, Anda dapat juga menelpon nomor darurat 118 sekali lagi untuk kemudian mendapatkan pengarahan mengenai langkah-langkah resusitasi yang dapat dilakukan.</li></ol></p><br /><br />
+Dudukkan penderita atau letakkan di posisi yang nyaman bagi penderita. Pastikan penderita dapat bersandar sehingga tidak perlu menyangga beban tubuhnya. Akan tetapi, jangan ambil posisi berbaring karena apabila penderita kehilangan kesadaran, jalan napasnya dapat terganggu.
+Panggil bantuan. Hubungi nomor telepon darurat yaitu 118 atau 119 untuk respons cepat ambulans.
+Tenangkan pasien, beri kata-kata menyejukkan sambil melonggarkan baju penderita sehingga dapat membantu dirinya bernapas lebih lega.
+Tanyakan riwayat kesehatan penderita. Adakah obat jantung yang diresepkan dokter dan biasanya ia minum. Apabila penderita membawa obat gawat daruratnya, bantulah dirinya untuk mengkonsumsi obat tersebut. Pada umumnya obat yang diresepkan dapat berupa aspirin kunyah atau nitrogliserin di bawah lidah. Jangan sekali-sekali memberikan obat pada penderita jantung tanpa mengetahui riwayat penyakitnya atau tanpa resep dari dokter karena hal ini justru dapat memperburuk kondisi jantungnya.
+Senantiasa cek kesadaran penderita. Sambil menunggu bantuan datang, pastikan penderita masih dalam keadaan sadar dengan mengajak berbicara. Apabila pasien tiba-tiba jatuh dalam keadaan tidak sadar maka Anda sebaiknya siap melakukan resusitasi jantung paru. Akan tetapi, sebelum melakukan resusitasi seharusnya Anda sudah pernah mengikuti pelatihan pertolongan pertama pada keadaan darurat. Mengingat hal ini, Anda dapat juga menelpon nomor darurat 118 sekali lagi untuk kemudian mendapatkan pengarahan mengenai langkah-langkah resusitasi yang dapat dilakukan.</p><br /><br />
 
 	<p><h4>Komentar Anda</h4></p>
                     <div id="contact_form">

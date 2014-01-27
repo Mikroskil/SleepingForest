@@ -78,34 +78,34 @@
         	<div class="cbox_large float_l">
             	<h2>Mendadak Tersedak? Lakukan Hal ini</h2>
                 <img src="images/tersedak.png" align="left" style="padding-right:20px; padding-top:5px;" />
-                <p>Pernahkah anda tersedak ketika sedang makan? Ya, saya yakin setiap orang pernah merasakannya. Apa yang anda kemudian lakukan untuk meredakannya? Minum? Ya beberapa jawaban pasti menyebutkan minum. Tapi bagaimana sebetulnya yang harus kita lakukan ketika tersedak. Dan apa yang harus kita lakukan ketika semisal teman semeja kita yang tersedak?<br<br />
+                <p>Pernahkah anda tersedak ketika sedang makan? Ya, saya yakin setiap orang pernah merasakannya. Apa yang anda kemudian lakukan untuk meredakannya? Minum? Ya beberapa jawaban pasti menyebutkan minum. Tapi bagaimana sebetulnya yang harus kita lakukan ketika tersedak. Dan apa yang harus kita lakukan ketika semisal teman semeja kita yang tersedak?
 
 Tersedak terjadi ketika benda asing bersarang di pintu masuk tenggorokan, menutupi jalan nafas kita.  Pada dewasa, makanan menjadi penyebab tersering. Sedangkan pada anak anak biasanya benda – benda kecil yang potensial untuk dimasukkan ke mulut.  Karena tersedak membuat penghantaran oksigen ke otak kita terganggu, pertolongan pertama harus dilakukan sesegera mungkin.Orang tersedak biasanya tangannya mencengkram lehernya.  Jika tidak, pastikan apakah orang tersebut :
-	<ul>
-    	<li>Tidak bisa berbicara</li>
-    	<li>Kesulitan bernafas</li>
-    	<li>Tidak bisa batuk dengan kuat</li>
-    	<li>Kulit, bibir, dan kukunya berubah menjadi kebiruan atau pucat</li>
-    	<li>Kehilangan kesadaran</li>
-    </ul>
+
+    Tidak bisa berbicara
+    Kesulitan bernafas
+    Tidak bisa batuk dengan kuat
+    Kulit, bibir, dan kukunya berubah menjadi kebiruan atau pucat
+    Kehilangan kesadaran
 
 Jika ada tanda -  tanda tersebut, maka kemungkinan orang tersebut tersedak. Ada beberapa yang dapat kita dilakukan untuk membantu orang yang sedang tersedak. Palang Merah merekomendasikan :
 
-	<ol>
-    	<li>Melakukan 5 kali pukulan pada punggung/ backblow.<br />Lakukan pukulan pada punggung di antara dua tulang belikat dengan telapak tangan</li>
+Melakukan 5 kali pukulan pada punggung/ backblow
 
-		<li>Melakukan 5 kali  Heimlich maneuver<br />
-Yaitu dengan menempatkan kepalan tangan di atas pusar pada perut korban dan jempol  mengarah ke perut.</li>
+Lakukan pukulan pada punggung di antara dua tulang belikat dengan telapak tangan
 
-		<li>Menepuk punggung 5 kali  dan melakukan Heimlich maneuver 5 kali secara bergantian sampai sumbatan keluar</li>
-        </ol>
+Melakukan 5 kali  Heimlich maneuver
 
-American Heart Association (AHA) merekomendasikan untuk menggunakan Heimlich maneuver saja.<br/>Jika yang tersedak adalah kita sendiri, maka pertama kali kita harus memanggil bantuan. Kemudian kita dapat melakukan Heimlich maneuver untuk diri sendiri. Caranya :
-	<ul>
-    	<li>Tempatkan kepalan tangan di atas pusar.</li>
-        <li>Pegang kepalan tangan dengan tangan lainnya.</li>
-    	<li>Condongkan tubuh ke depan.</li>
-        <li>Dorong genggaman tangan ke atas</li></p><br /><br />
+Yaitu dengan menempatkan kepalan tangan di atas pusar pada perut korban dan jempol  mengarah ke perut.
+
+Menepuk punggung 5 kali  dan melakukan Heimlich maneuver 5 kali secara bergantian sampai sumbatan keluar
+
+American Heart Association (AHA) merekomendasikan untuk menggunakan Heimlich maneuver saja.<br/>Jika yang tersedak adalah kita sendiri, maka pertama kali kita harus memanggil bantuan. Kemudian kita dapat melakukan Heimlich maneuver untuk diri sendiri. Caranya :<br/>
+
+    Tempatkan kepalan tangan di atas pusar<br/>
+    Pegang kepalan tangan dengan tangan lainnya.<br/>
+    Condongkan tubuh ke depan<br/>
+    Dorong genggaman tangan ke atas<br/></p><br /><br />
 
 	<p><h4>Komentar Anda</h4></p>
                     <div id="contact_form">
